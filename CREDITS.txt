@@ -159,6 +159,9 @@
 
 == Esperanto Localization ==
 * Wilbur Williams (GitHub: ThisCatLikesCrypto)
+* jan Jami (discord: @janjami)
+* jan Katan
+* tbodt 
 
 == Filipino Localization ==
 * Jack Gabriel Acodili
