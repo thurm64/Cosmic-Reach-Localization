@@ -1,0 +1,17 @@
+{
+  "base:axe_aluminium": "Aluminia Hakilo",
+  "base:axe_iron": "Fera Hakilo",
+  "base:axe_stone": "Ŝtona Hakilo",
+  "base:pickaxe_aluminium": "Aluminia Pioĉo",
+  "base:pickaxe_iron": "Fera Pioĉo",
+  "base:pickaxe_stone": "Ŝtona Pioĉo",
+  "base:shovel_aluminium": "Aluminia Fosilo",
+  "base:shovel_iron": "Fera Fosilo",
+  "base:shovel_stone": "Ŝtona Fosilo",
+  "base:ingot_aluminium": "Aluminia Fandaĵo",
+  "base:ingot_iron": "Fera Fandaĵo",
+  "base:ingot_gold": "Ora Fandaĵo",
+  "base:medkit": "Sukuraĵo",
+  "base:medkit_gold": "Ora Sukuraĵo",
+  "base:stick": "Bastono"
+}
